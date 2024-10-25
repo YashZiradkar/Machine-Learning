@@ -1,0 +1,101 @@
+ID,Brand,Type,Frame_Size,Rental_Rate,Purchase_Date,Condition,Status
+1,Santa Cruz,Electric,Large,35/day,23/07/2024,Fair,Rented
+2,Giant,Electric,Large,30/day,08/06/2022,New,Rented
+3,Specialized,Mountain Bike,Large,25/day,29/10/2023,New,Rented
+4,Santa Cruz,Gravel,Extra Large,25/day,24/05/2022,Fair,Available
+5,Santa Cruz,Gravel,Medium,20/day,25/11/2023,Fair,Maintenance
+6,Yeti,Road Bike,Small,30/day,25/12/2023,New,Maintenance
+7,Cannondale,Electric,Small,30/day,09/03/2023,Fair,Available
+8,Scott,Electric,Medium,30/day,23/07/2022,Fair,Rented
+9,Giant,Electric,Medium,20/day,05/01/2024,Good,Rented
+10,Giant,Gravel,Medium,30/day,18/07/2024,Old,Rented
+11,Trek,Folding,Small,35/day,05/01/2023,Fair,Rented
+12,Santa Cruz,Hybrid,Extra Large,25/day,30/01/2023,Fair,Rented
+13,Santa Cruz,Mountain Bike,Small,20/day,20/06/2024,New,Available
+14,Yeti,Hybrid,Large,35/day,15/03/2022,New,Available
+15,Cannondale,Gravel,Small,25/day,26/08/2024,Old,Rented
+16,Diamondback,Road Bike,Small,40/day,31/10/2022,Fair,Available
+17,Yeti,Mountain Bike,Small,35/day,10/04/2024,Fair,Maintenance
+18,Giant,Road Bike,Extra Large,25/day,04/04/2022,New,Available
+19,Specialized,Gravel,Large,20/day,07/02/2024,Good,Available
+20,Trek,Gravel,Small,20/day,18/07/2022,New,Available
+21,Cannondale,Road Bike,Extra Large,20/day,18/08/2022,Good,Rented
+22,Diamondback,Gravel,Small,25/day,15/07/2023,Fair,Maintenance
+23,Marin,Mountain Bike,Small,40/day,06/06/2024,Fair,Available
+24,Yeti,Gravel,Medium,40/day,04/10/2023,Fair,Available
+25,Canyon,BMX,Large,25/day,11/07/2023,Good,Rented
+26,Yeti,Folding,Medium,40/day,20/08/2024,New,Maintenance
+27,Marin,BMX,Large,20/day,04/08/2024,Fair,Maintenance
+28,Yeti,Road Bike,Medium,35/day,15/07/2022,New,Available
+29,Canyon,Gravel,Extra Large,30/day,24/04/2024,Good,Available
+30,Giant,Road Bike,Medium,35/day,16/04/2023,New,Available
+31,Marin,Folding,Small,20/day,03/10/2022,Old,Maintenance
+32,Specialized,Folding,Extra Large,40/day,16/07/2023,Old,Maintenance
+33,Trek,Mountain Bike,Small,20/day,10/07/2023,Old,Rented
+34,Yeti,Mountain Bike,Small,35/day,24/03/2024,Good,Rented
+35,Yeti,Mountain Bike,Large,25/day,27/08/2022,Old,Maintenance
+36,Cannondale,Road Bike,Extra Large,20/day,03/02/2024,Old,Maintenance
+37,Marin,Gravel,Large,30/day,05/03/2023,Fair,Maintenance
+38,Santa Cruz,Folding,Medium,20/day,02/12/2022,New,Maintenance
+39,Cannondale,BMX,Extra Large,25/day,12/11/2022,Good,Rented
+40,Marin,Road Bike,Large,25/day,11/09/2022,Good,Maintenance
+41,Yeti,Gravel,Large,35/day,06/01/2023,Good,Maintenance
+42,Santa Cruz,Folding,Medium,30/day,25/02/2023,Fair,Rented
+43,Specialized,BMX,Large,30/day,15/06/2022,New,Rented
+44,Marin,BMX,Medium,30/day,21/10/2023,Fair,Rented
+45,Canyon,Folding,Small,40/day,29/12/2022,Fair,Rented
+46,Cannondale,Gravel,Small,35/day,10/04/2022,Old,Available
+47,Giant,BMX,Large,40/day,19/02/2023,Fair,Maintenance
+48,Trek,Mountain Bike,Small,40/day,30/11/2022,Good,Available
+49,Specialized,Gravel,Extra Large,35/day,21/02/2022,New,Rented
+50,Marin,Electric,Small,30/day,03/06/2023,Good,Maintenance
+51,Diamondback,Mountain Bike,Extra Large,25/day,18/09/2023,Old,Rented
+52,Yeti,Folding,Extra Large,20/day,15/02/2023,Fair,Rented
+53,Canyon,Mountain Bike,Small,30/day,20/12/2023,Good,Available
+54,Giant,Road Bike,Extra Large,35/day,26/01/2024,Old,Maintenance
+55,Giant,Mountain Bike,Small,35/day,27/02/2022,New,Available
+56,Marin,Electric,Medium,25/day,04/05/2024,Fair,Available
+57,Scott,Gravel,Large,30/day,25/03/2024,Old,Maintenance
+58,Santa Cruz,Road Bike,Extra Large,20/day,09/11/2023,Good,Maintenance
+59,Marin,Road Bike,Small,30/day,22/01/2023,Good,Maintenance
+60,Canyon,Hybrid,Large,30/day,15/07/2022,Good,Available
+61,Canyon,Road Bike,Medium,30/day,20/12/2022,Fair,Maintenance
+62,Trek,Road Bike,Medium,35/day,19/08/2022,Good,Available
+63,Cannondale,BMX,Small,25/day,01/04/2024,Fair,Maintenance
+64,Diamondback,Mountain Bike,Small,40/day,08/09/2022,New,Available
+65,Specialized,BMX,Large,35/day,08/12/2023,Good,Maintenance
+66,Specialized,Gravel,Extra Large,25/day,27/11/2022,Good,Available
+67,Specialized,Mountain Bike,Medium,40/day,18/06/2022,New,Available
+68,Giant,Gravel,Medium,30/day,31/03/2024,Good,Rented
+69,Marin,Folding,Small,20/day,25/09/2023,Fair,Rented
+70,Specialized,Electric,Extra Large,30/day,27/08/2022,New,Rented
+71,Giant,Hybrid,Medium,40/day,02/04/2023,Fair,Rented
+72,Yeti,Electric,Large,40/day,18/04/2023,New,Available
+73,Yeti,Gravel,Medium,30/day,30/03/2024,Fair,Maintenance
+74,Specialized,Electric,Extra Large,20/day,07/06/2023,New,Maintenance
+75,Trek,Folding,Medium,35/day,07/11/2022,Good,Available
+76,Scott,Electric,Large,25/day,22/07/2024,New,Rented
+77,Specialized,Mountain Bike,Medium,25/day,04/08/2024,Old,Rented
+78,Giant,BMX,Large,25/day,02/09/2023,Old,Maintenance
+79,Yeti,Mountain Bike,Large,30/day,25/02/2023,Fair,Rented
+80,Trek,Hybrid,Small,20/day,20/01/2023,Fair,Rented
+81,Marin,Hybrid,Large,30/day,19/06/2023,Old,Rented
+82,Yeti,BMX,Medium,30/day,18/10/2023,New,Rented
+83,Specialized,Gravel,Small,30/day,18/09/2022,Good,Maintenance
+84,Diamondback,Road Bike,Small,40/day,25/02/2022,Fair,Rented
+85,Trek,Folding,Large,35/day,22/05/2024,Good,Maintenance
+86,Diamondback,Hybrid,Large,35/day,07/07/2024,Fair,Maintenance
+87,Marin,Road Bike,Small,40/day,19/03/2022,New,Rented
+88,Giant,Gravel,Small,30/day,11/04/2024,New,Rented
+89,Giant,Electric,Extra Large,35/day,05/08/2023,Good,Available
+90,Scott,Road Bike,Medium,35/day,05/04/2024,Old,Rented
+91,Yeti,Hybrid,Medium,35/day,26/06/2024,Old,Rented
+92,Giant,Folding,Extra Large,35/day,16/09/2022,Good,Available
+93,Specialized,Mountain Bike,Medium,25/day,20/10/2022,New,Maintenance
+94,Trek,Gravel,Medium,20/day,31/01/2022,Fair,Rented
+95,Diamondback,Folding,Small,20/day,15/09/2023,Good,Maintenance
+96,Specialized,BMX,Extra Large,35/day,14/05/2023,Fair,Rented
+97,Yeti,Folding,Medium,35/day,03/02/2024,Old,Maintenance
+98,Scott,Electric,Small,35/day,12/11/2023,Old,Maintenance
+99,Trek,Gravel,Medium,35/day,05/10/2022,Fair,Rented
+100,Diamondback,Hybrid,Small,25/day,29/10/2022,Good,Rented
