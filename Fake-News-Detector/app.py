@@ -1,17 +1,29 @@
-from transformers import pipeline
+import streamlit as st
+from predictor import predict_news
 
-MODEL = "anshy047/fake-news-detector-transformer"
+st.title("📰 Fake News Detector")
 
-classifier = pipeline(
-    "text-classification",
-    model = MODEL
+article = st.text_area(
+    "Paste a news article or headline"
 )
 
-def predict_news(text):
+if st.button("Analyze"):
 
-    result = classifier(text[:512])[0]
+    if article:
 
-    return {
-        "label": result["label"],
-        "score": result["score"]
-    }
+        result = predict_news(article)
+
+        if result["label"] == 'LABEL_0':
+            label = "Fake"
+        else:
+            label = "Real"
+
+        st.subheader("Result")
+
+        st.write(
+            f"Prediction: {label}"
+        )
+
+        st.write(
+            f"Confidence: {result['score']:.2%}"
+        )
